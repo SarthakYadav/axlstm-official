@@ -1,5 +1,5 @@
 # axlstm-official
-This is the official repository for our paper ["Audio xLSTMs: Learning Self-Supervised Audio Representations with xLSTMs"](https://arxiv.org/abs/2408.16568).
+This is the official repository for our paper ["Audio xLSTMs: Learning Self-Supervised Audio Representations with xLSTMs"](https://arxiv.org/abs/2408.16568), accepted at INTERSPEECH 2025.
 
 # Contents
 * [Pre-trained weights for the default AxLSTM configurations](https://drive.google.com/drive/folders/1SyNvA7a6jrWmRwYYj85ggADiKBpDpGLK?usp=sharing)
